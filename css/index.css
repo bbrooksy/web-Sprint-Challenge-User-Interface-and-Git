@@ -144,3 +144,33 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+ 
+  li a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+
+  }    
+
+
+.header-img {
+    display: flex;
+    padding:20px;
+    align-items: center;
+    justify-content: center;
+
+}
+.main-headerimg {
+    display:flex;
+    margin:0;
+    align-items:center;
+    align-content: center;
+    justify-content:space-evenly;
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+
+    
+}
